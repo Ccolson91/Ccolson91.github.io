@@ -28,8 +28,24 @@ Prior to software development, I have 13+ years experience working with small bu
 
 ## <a name="projects"></a>Projects
 
-a little about my projects
+### Digital Coupon Creator
+
+The Digital Coupon Creator is a tool for salon owners to quickly create digital coupons for individual stylists to give to potential new guests.
+
+#### tech stack
+
+Javascript, Node.js, Express, Postman, Postgres, Heroku
+
+#### demo video
+
+Insert Demo video here...
+
+#### link to repo
+
+[See Digital Coupon Creator](https://github.com/Ccolson91/foundations-capstone)
+
+link to live site if hosted
 
 ## <a name="contact"></a>Contact
 
-Here's how to contact me
+Christiancolson91@gmail.com

@@ -6,7 +6,7 @@
 
 ---
 
-- About
-- Skills
-- Projects
-- Contact
+- [About](#about)
+- [Skills](#skills)
+- [Projects](#projects)
+- [Contact](#contact)
